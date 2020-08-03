@@ -1,0 +1,6 @@
+.box{
+    width: 300px;
+    height: 200px;
+    background: blue; /* 요소의 배경 색상을 파란색으로 하겠다. */
+    font-size: 30px;
+}
