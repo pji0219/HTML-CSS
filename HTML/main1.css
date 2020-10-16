@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background: red;
+    width: 150px;
+    height: 200px; /* div가 높이가 기본적으로 없기 때문에 지정 */
+}
+
+span {
+    background: blue;
+    width: 150px;
+    height: 200px; 
+}
