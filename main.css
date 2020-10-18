@@ -4,7 +4,7 @@ body {
     margin: 0; /* 브라우저 마다 기본적으로 여백 값이 설정 되어 있어서 초기화 */
     padding: 0;
 }
-.header {
+header {
     background: white;      /* 헤더의 가로 너비는 지정 안해주면 자동으로 100%
                                세로 너비는 안에 컨텐츠에 따라 자동으로 크기 지정 */
     border-bottom: 1px solid lightgray;
