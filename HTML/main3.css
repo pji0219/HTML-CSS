@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    background: red;
+    width: 120px;
+    height: 80px;
+    margin: 20px;
+    display: block; /* 인라인 요소인 span 태그를 블록 요소로 바꿈 */
+}
+
+div {
+    background: skyblue;
+    width: 120px;
+    height: 80px;
+    margin: 20px;
+    display: inline; /* 블록 요소인 div 태그를 인라인 요소로 바꿈 */
+}
