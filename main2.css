@@ -1,0 +1,11 @@
+.container {
+    width: 100px;
+    height: 100px;
+    background: tomato;
+}
+@media screen and (orientation: landscape) {
+    .container {
+        height: 300px;
+        background: blue;
+    }
+}
