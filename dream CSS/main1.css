@@ -1,0 +1,42 @@
+/* 선택자 { 
+    속성: 값;
+} */
+
+* {
+    color: green;
+}
+
+li {
+    color: blue;
+}
+
+li#special {
+    color: pink;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid red;
+    background: yellow;
+}
+
+.blue {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid red;
+}
+
+button:hover {
+    color: red;
+    background-color: beige;
+}
+
+a[href="https://www.naver.com"] {
+    color: blue;
+}
